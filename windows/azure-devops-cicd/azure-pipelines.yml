@@ -1,5 +1,5 @@
 # =========================
-# Azure DevOps Pipeline YAML
+# Azure DevOps Pipeline YAML for Azure static site
 # =========================
 
 trigger:
